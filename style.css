@@ -1,0 +1,189 @@
+body {font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Verdana, sans-serif;-webkit-font-smoothing: antialiased;color:#000;margin:0;padding:0;direction:ltr;font-size:15px;line-height:1.154;font-weight:400;-webkit-font-smoothing:subpixel-antialiased;-moz-osx-font-smoothing:auto;background: #fff;}
+a {color: #0f4283;text-decoration: none;}a:hover {}.fl_l {float:left}.fl_r {float:right}
+.kait20_kirill__bar {display:inline-block;white-space:nowrap;line-height:40px;height:40px;overflow:hidden;color:#fff;margin: 13px;width: 150px;text-align: center;}
+.kait20_kirill__bar:hover {display:inline-block;white-space:nowrap;line-height:40px;height:40px;overflow:hidden;color:#0d6d99;margin: 13px;border-bottom: 2px solid #6a9fbe;background: #fff;width: 150px;text-align: center;}
+.kait20_kirill__bar2 {display:inline-block;white-space:nowrap;line-height:40px;height:40px;overflow:hidden;color:#485b63;font-weight:700;margin: 13px;width: 60px;text-align: center;}
+.kait20_kirill__bar2:hover {display:inline-block;white-space:nowrap;line-height:40px;height:40px;overflow:hidden;color:#0d6d99;font-weight:700;margin: 13px;border-bottom: 0;background: #fff;width: 60px;text-align: center;}
+div.kait20__malininkirill_block_out {margin: 0 auto; width: 1100px; margin-top: 25px;position: relative;}
+#kait20_malinin_malinin_tr {margin: 0;padding: 0;border-radius: 5px;}
+.kait20_malinin_kirill_about {font-size: 16px; margin-bottom: 40px;line-height: 28px; text-align: center;}
+.kait20__malinin__kirill_author {font-size: 65px; color: #6B6B6B; margin-bottom: 40px;}
+#kait20-malinin-panel {position:fixed;height:67px;width:100%;left:0;top:0;z-index:120;direction:ltr}
+#kait20-malinin-start {position:relative;height:67px;margin:0 auto;font-size:12.5px;padding:0 15px}
+#kait20-malinin-panel .kait20-malinin-box {position:absolute;width:100%;background:#577390;height:67px;box-sizing:border-box;}
+.kait20_malinin_data {float: left;width: 19%;padding: 10px;margin-bottom: 20px;margin-top: 25px;border-radius: 200px; margin-left: 45px;}
+.kait20_malinin_data:nth-child(3n) {margin-right: 0;}
+.kait20_malininkirill_logo {background:url("images/logo.png") no-repeat;margin:17px 0px 0px 0px;width:195px;height:45px;filter:alpha(opacity=45)}
+.kait20_malininkirill_logo_up {background:url("logo-up.png") no-repeat;margin:17px 0px 0px 0px;width:195px;height:45px;filter:alpha(opacity=45)}
+.kait20__malinin__kirill_author {width: 200px;text-align: center;margin-top: 30px;font-family: Exo, sans-serif;font-size: 16px;margin-bottom: 20px;}
+.kait20_malinin_data img {width: 200px;height: 220px;border-radius: 30px;} 
+#kirillmalinin_kait20_phone {position: fixed; z-index: 1000; right: 15px; bottom: 30px; height: 50px; width: 50px; background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAFJklEQVRYhe2ZXWxTZRjH/8972s5sXUkk8wY/ajKYkRt0CiHhZjMxAyOZjBayj0gkoSGwhaz7cGkrb7aVAGtBakYydIS5M8SDRpQoiYahXsBcNkTuSBayLdMLUC/WlqRf5/FiKRndZO3Z2Lzwl/TmvM/zvL/z5vR9Tt8SDODQNOWlieRGnVJlBCoFwQ4GPxJEIDDGGTwKokFzeGxYSqnnOhflEuwJfvYcIXkATBUgDDPzNWIeMkXvTmROLqUUWLXWnkjpmwBRTtA3Eug7JYVu2Vo7taSCbSGtSMRjnUS0nsEnzeG8y1I647ncnJSaJWmNbwfQyMBvZgifbKr+c9GCvi61mgnNzGj3N9d+lYvUv+EJ9lcRk4+YjnY011wwJLivp8dcFLaeJuanTPmW/fKAM7IUcmlajvUWWpS8HjCm79mi9WdcrkTWglL25CcL8i+C8H1nU92ppRTLxBPsbySmMlMkuktK14MFBff19Jifmc6/xESav6m270nKpfEFB/Ywc9W9wuiOzJUUmcFFYetpBv2wXHIA0OGuOQfgx6JwQeixgZ7AQI23S+03OpGUUkgp59x0tngD6nlPUN01+9rDYm0hrYjATaZ8y34jxR2apiStxeeS1uJzDk1TjNSIp2IuYm5tO9K3eo6giMc6mdFu5Nvq0DSlZCJxFkAdgLqSyfiAlNdMudY53ro3zAS/sCjtjwjKY+qzBLxsZJ97KEdcCfDtmQ+2Jgv+6DWykn533ZcEbJBHP33+oWDSxAeZ8GGuxaSUomQy3gviKga9DabbYLpNLCpAXFkyGVONSBLzqZRJ7AeAmYeaqcIczrucq1zSWnwWwE4GbfM31fycHutorr5BLCoA2mZEUonmXWLwNoemKSJVsG4TCMO59NbHyS2F5IyLGF03lSgVOqXKSKfBbJPBTMmC4tMAdpIQb80nN5/kusn4J7lsQQxchc7lgkCljNQv2SZ6T5z/AIRqJn6zo7H6p4XiO5qrbzDxVgKqEtZib7bzkK4MEVAqALxgit6dyDoR+iWdxRa/u+56tjl+d911ncUWQfx1tjl37GIcTHZ4A+pItkkL4e1S+xfTiebUC6gjhtvScvG/4GKZaXWLeAN5Ujg0TQETCwATWLXWvtJCmayfir0I4nHB4NGZn4b/LRK62AymEQGiQUCUr7TQXLiciAeFOTw2TODX60OhvJVWSiOlZiFggxIZGxVSSp2AK7bE6u0rLZYmURh/B4QrUkpdAICSQjcxu8Gc01HIk4IYDUypbiC9zbTWTjHwq+eEumNl1QBfV7+TiW76G9/9HZi1UZshfMTkbTnWW2i4OuEWCLeMpsuQamOiNjOZD88b4Osa2O0NqOcNCy4Sb0D93BMccMy+9kgH6WiuuQDGtDegupdXDfAE1BYA9/3umouzr89pcfds0XoCynzBgT3LJecLqu8J8BZTZM2hzLE5gmdcroQSiTqZuWo5VtITUFvAXKlEHuyWsiyZOb7A8VtBiIBV8VTMdbx1b3gpxWRItSXj+BjAfVNkzaH55B4rmMYTVHcR430A/s6m2i8WbcZMvoDqYKI2JjqS+czlLAgAbUf6VguL0k7AK0x0ctr81zcfNTTEcvGqD4XybImnK4lxiIlGzGQ+LBudfy+Ul9sh+om+NUJXDjKwFaCbDFwlXRm6YxfjF53O1OxYh6YpJeO6nZTkZp3xBoFfBdG3TKnu9CacDYZam5RSJGxrX4PO5QSUgskOymiTTAzicTCNEPGgEhkbNfI3xD9iRUGlHYTuEgAAAABJRU5ErkJggg==") no-repeat;} 
+#kirillmalinin_kait20_phone:hover {border: 0;} 
+#kait20_kirill_add {color: #5c728e; border: 0;} 
+.kait20_malinin_block {margin-top: -20px; position: relative; padding: 15px 15px; border-radius: 200px; width: 120px; background: #f5f3f3; margin-left: 27px;} 
+.kait20_malinin_block:hover {border: 0;}
+.kait20_malininkirill__undo {font-size: 14px; border: 1px solid #4781a0; padding: 10px 20px;}
+
+.kirill_malinin_name {
+    margin-top: -37px;
+    margin-left: 53px;
+    font-size: 17px;
+    color: #fff;
+}
+
+h1 {
+  text-align:center;
+}
+.container {
+  width:90%;
+  margin:0 auto;
+}
+input[type="radio"] {
+    display:none;
+}
+label {
+  width:170px;
+  float:left;
+  text-align:center;
+  background:#444444;
+  border: 1px solid #616161;
+  color:#fff;
+  padding:13px;
+  margin:10px;
+  margin-bottom:30px;
+  cursor:pointer;
+  margin-top: -32px;
+  border-radius: 5px;
+}
+label:hover {
+  background: #676767;
+}
+
+input[type="radio"][id="blue"]:checked + label {
+  border: 1px solid #676767;
+  background: #676767;
+}
+input[type="radio"][id="blue"]:checked ~ .red, input[type="radio"][id="blue"]:checked ~ .green {
+  width:0;
+  height:0;
+  padding:0;
+  margin:0;
+  opacity:0;
+}
+input[type="radio"][id="red"]:checked + label {
+  border: 1px solid #676767;
+  background: #676767;
+}
+input[type="radio"][id="red"]:checked ~ .blue, input[type="radio"][id="red"]:checked ~ .green {
+  width:0;
+  height:0;
+  padding:0;
+  margin:0;
+  opacity:0;
+}
+input[type="radio"][id="green"]:checked + label {
+  border: 1px solid #676767;
+  background: #676767;
+}
+input[type="radio"][id="green"]:checked ~ .blue, input[type="radio"][id="green"]:checked ~ .red {
+  width:0;
+  height:0;
+  padding:0;
+  margin:0;
+  opacity:0;
+}
+    
+
+.tile {
+  width:23%;
+  height:420px;
+  float:left;
+  transition:all 1s;
+  margin:0.5%;
+  padding:0.5%;
+}
+
+#kait_malinin_tur {border: 0; background: 0; width: 8%;}
+.kait20_malinin_data {float: left;width: 19%; border: 1px solid #f3f3f3; padding: 10px;margin-bottom: 20px;margin-top: 25px;border-radius: 5px; background: #fbfbfb; margin-left: 43px;}.kait20_malinin_data:nth-child(3n) {margin-right: 0;}
+.kait20__malinin__kirill_author {width: 200px;text-align: center;margin-top: 30px;font-family: Exo, sans-serif;font-size: 16px;margin-bottom: 20px;}
+.kait20_malinin_data img {width: 200px;height: 220px;border-radius: 200px;}
+.container_slider_css{margin:50px auto;width:100%;height:385px;overflow:hidden;position:relative}
+.photo_slider_css{position:absolute;animation:round 16s infinite;opacity:0;width:100%}
+@keyframes round {
+25%{opacity:1}
+40%{opacity:0}
+}
+img:nth-child(1){animation-delay:12s}
+img:nth-child(2){animation-delay:8s}
+img:nth-child(3){animation-delay:4s}
+img:nth-child(4){animation-delay:0}
+@media(min-width:0px) and (max-width:320px) {
+.container_slider_css{width:80%;height:190px}
+}
+@media(min-width:321px) and (max-width:480px) {
+.container_slider_css{width:80%;height:190px}
+}
+
+.kait20_malinin_block {margin-top: -20px; position: relative; padding: 15px 15px; border-radius: 200px; width: 120px; background: #f5f3f3; margin-left: 27px;} 
+.kait20_malinin_block:hover {border: 0;}
+    
+ a:hover {
+  text-decoration: none;
+}
+
+nav {
+    font-family: monospace;
+}
+
+ul {
+  background: #fff;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+li {
+    color: #fff;
+  background: #fff;
+    display: block;
+    float: left;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none;
+  transition-duration: 0.5s;
+    border: 1px solid #000;
+    padding: 15px 40px;
+}
+  
+li a {
+  color: #000;
+}
+
+li:hover {
+    background: #fff;
+    cursor: pointer;
+}
+
+ul li ul {
+    background: orange;
+    visibility: hidden;
+  opacity: 0;
+  min-width: 5rem;
+    position: absolute;
+  transition: all 0.5s ease;
+  margin-top: 1rem;
+    left: 0;
+  display: none;
+}
+
+ul li:hover > ul,
+ul li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+ul li ul li {
+    clear: both;
+  width: 100%;
+}
